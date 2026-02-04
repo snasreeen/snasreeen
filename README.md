@@ -1,28 +1,27 @@
+<!-- ======= COOL CYBER BANNER ======= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Nasreen%20Taj&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,45&height=230&section=header&text=Nasreen%20Taj&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20Engineering%20Student&descAlignY=65&descSize=16" />
 </p>
 
-<h2 align="center">Cyber Security Engineering Student</h2>
-
+<!-- ======= TYPING EFFECT (COOL BUT CLEAN) ======= -->
 <p align="center">
-🔐 Web Security • URL Analysis • Networking Fundamentals  
-🛠️ Learning by building real-world projects  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Web+Security+%26+URL+Analysis;Networking+Fundamentals;Building+Projects+Step+by+Step" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-I am a **Cyber Security Engineering student** focused on understanding security through **hands-on projects** rather than only theory.
+I am a **Cyber Security Engineering student** focused on learning security through **hands-on, real-world projects** instead of only theory.
 
-I believe in building small, meaningful applications that strengthen my fundamentals in **security, networking, and problem-solving**.
+I believe in **strong fundamentals, consistency, and honest learning** — no shortcuts, no fake expertise.
 
 ---
 
 ## 🔐 Current Focus
 - Web Security & URL Analysis  
-- Networking basics  
-- Java & problem-solving (DSA fundamentals)  
-- Applying security concepts through projects  
+- Networking fundamentals  
+- Java & problem-solving (DSA basics)  
+- Applying security concepts through practical projects  
 
 ---
 
@@ -48,34 +47,32 @@ I believe in building small, meaningful applications that strengthen my fundamen
 ## 📌 Featured Projects
 
 🔹 **URL Safety Checker**  
-🛡️ A web-based tool to analyze URLs and detect potential security risks.
+🛡️ A web-based tool that analyzes URLs to detect potential security risks.
 
 🔹 **Stock Pulse**  
 📈 A real-time stock market dashboard using live API data.
 
 🔹 **Energie Fitness**  
-🏋️ A frontend website focused on layout, responsiveness, and UI fundamentals.
+🏋️ A frontend website focused on UI, layout, and responsiveness.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snasreeen&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snasreeen&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact
-📧 Email: snasreen7890@gmail.com  
-💻 GitHub: https://github.com/snasreeen  
-
----
+<!-- ======= CLEAN FOOTER WAVE ======= -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141e30,100:243b55&height=90&section=footer" />
 
 <p align="center">
+📧 <b>snasreen7890@gmail.com</b><br>
 <em>Consistency, sincerity, and effort bring real growth.</em>
 </p>
