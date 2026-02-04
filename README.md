@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,45&height=230&section=header&text=Nasreen%20Taj&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20Engineering%20Student&descAlignY=65&descSize=16" />
 </p>
 
-<!-- ======= TYPING EFFECT (COOL BUT CLEAN) ======= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Web+Security+%26+URL+Analysis;Networking+Fundamentals;Building+Projects+Step+by+Step" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
