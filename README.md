@@ -1,5 +1,51 @@
 # 💫 About Me:
 🎓 Cyber Security student<br>🌱 Learning Cyber Security, Java, DBMS & Networking<br>💻 Building academic & beginner-level projects<br>🤝 Open to collaboration and learning
+<h1 align="center">Hi 👋, I'm Nasreen Taj</h1>
+<h3 align="center">Cyber Security Engineering Student | Security & Web Projects</h3>
+
+<p align="center">
+🔐 Interested in Web Security, URL Analysis & Secure Systems  
+🎓 Engineering student | Learning by building real projects  
+</p>
+
+---
+
+## 🧠 About Me
+- Cyber Security Engineering student  
+- Built real projects like **URL Safety Checker** and **Stock Pulse**  
+- Learning **Java, DSA, Web Security & Networking**  
+- Focused on fundamentals, not shortcuts  
+
+---
+
+## 🛠️ Skills
+**Languages:**  
+C | Java | JavaScript | HTML | CSS  
+
+**Security & Tools:**  
+Git | GitHub | Linux | VS Code | Basic Networking  
+
+---
+
+## 📌 Featured Projects
+🔹 **URL Safety Checker**  
+> Detects malicious URLs using security checks and validation  
+
+🔹 **Stock Pulse**  
+> Real-time stock dashboard with API integration  
+
+🔹 **Energie Fitness Website**  
+> Frontend project using modern UI concepts  
+
+---
+
+## 📫 Reach Me
+- Email: snasreen7890@gmail.com
+- LinkedIn: (add when ready)
+
+---
+
+> *“Progress comes from discipline, not motivation.”*
 
 
 ## 🌐 Socials:
