@@ -1,14 +1,19 @@
-<!-- ======= MINIMAL HEADER ======= -->
+<!-- ======= COOL CYBER BANNER ======= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=180&section=header&text=Nasreen%20Taj&fontSize=38&fontColor=ffffff&desc=Cyber%20Security%20Engineering%20Student&descAlignY=70&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24,45&height=230&section=header&text=Nasreen%20Taj&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20Engineering%20Student&descAlignY=65&descSize=16" />
+</p>
+
+<!-- ======= TYPING EFFECT (COOL BUT CLEAN) ======= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Web+Security+%26+URL+Analysis;Networking+Fundamentals;Building+Projects+Step+by+Step" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-I am a **Cyber Security Engineering student** focused on learning security through **hands-on projects and strong fundamentals**.
+I am a **Cyber Security Engineering student** focused on learning security through **hands-on, real-world projects** instead of only theory.
 
-I prefer **clarity over hype**, **consistency over shortcuts**, and building skills step by step.
+I believe in **strong fundamentals, consistency, and honest learning** — no shortcuts, no fake expertise.
 
 ---
 
@@ -22,38 +27,52 @@ I prefer **clarity over hype**, **consistency over shortcuts**, and building ski
 
 ## 🧠 Skills
 
-**Programming Languages**  
-C · Java · JavaScript · HTML · CSS  
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css" />
+</p>
 
-**Tools & Platforms**  
-Git · GitHub · Linux · VS Code  
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
-**Currently Learning**  
-AWS · Docker  
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-**URL Safety Checker**  
-A web-based tool to analyze URLs and identify potential security risks.
+🔹 **URL Safety Checker**  
+🛡️ A web-based tool that analyzes URLs to detect potential security risks.
 
-**Stock Pulse**  
-A real-time stock market dashboard using live API data.
+🔹 **Stock Pulse**  
+📈 A real-time stock market dashboard using live API data.
 
-**Energie Fitness**  
-A frontend website focused on clean UI and responsiveness.
+🔹 **Energie Fitness**  
+🏋️ A frontend website focused on UI, layout, and responsiveness.
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snasreeen&show_icons=true&hide_title=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snasreeen&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snasreeen&theme=tokyonight" />
 </p>
 
 ---
 
+<!-- ======= CLEAN FOOTER WAVE ======= -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141e30,100:243b55&height=90&section=footer" />
+
 <p align="center">
 📧 <b>snasreen7890@gmail.com</b><br>
-<em>Consistency and sincerity matter more than speed.</em>
+<em>Consistency, sincerity, and effort bring real growth.</em>
 </p>
